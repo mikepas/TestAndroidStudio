@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestAndroidStudio</string>
+    <string name="mainActivity_name">Welcome to my test application on Android Studio!</string>
 </resources>
